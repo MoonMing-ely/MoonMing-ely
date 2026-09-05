@@ -1,4 +1,4 @@
-<h3 align="center">嗨, 想我了吗♪</h3>
+<h3 align="center">愿你前行的路上有群星闪耀, 愿你留下的足迹有百花绽放♪</h3>
 
 <p align="center">
   <a href="https://github.com/MoonMing-ely/MoonMing-ely/blob/main/assets/elysia.webp">
